@@ -1,6 +1,8 @@
 # Square-Game
 Hi Everyone , First of all i Choosed the sqaure Game .
 <br>
+This code is made with the combination of html,css,js
+<br>
 I am going to talk about Square Game.
 <br>
 It is very interesting.
